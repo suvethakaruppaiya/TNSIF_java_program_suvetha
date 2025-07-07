@@ -1,1 +1,1 @@
-package com.tnsif.collection.list;
+package com.tnsif.collection.queue;
