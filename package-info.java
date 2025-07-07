@@ -1,1 +1,1 @@
-package com.tnsif.multithreading.synchronization;
+package com.tnsif.collection.list;
